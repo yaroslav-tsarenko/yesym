@@ -488,8 +488,5 @@ const FrameComponent4 = ({ className = "" }) => {
   );
 };
 
-FrameComponent4.propTypes = {
-  className: PropTypes.string,
-};
 
 export default FrameComponent4;

@@ -80,25 +80,5 @@ const FrameComponent9 = ({
   );
 };
 
-FrameComponent9.propTypes = {
-  className: PropTypes.string,
-  overlay: PropTypes.string,
-  southCaribbeanCruise: PropTypes.string,
-  countries: PropTypes.string,
-  overlay1: PropTypes.string,
-  easternCaribbeanCruise: PropTypes.string,
-  countries1: PropTypes.string,
-
-  /** Style props */
-  propAlignSelf: PropTypes.any,
-  propGap: PropTypes.any,
-  propFlex: PropTypes.any,
-  propMinWidth: PropTypes.any,
-  propDisplay: PropTypes.any,
-  propMinWidth1: PropTypes.any,
-
-  /** Action props */
-  onLinkButtonClick: PropTypes.func,
-};
 
 export default FrameComponent9;

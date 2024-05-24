@@ -36,12 +36,6 @@ const FrameComponent5 = ({
   );
 };
 
-FrameComponent5.propTypes = {
-  className: PropTypes.string,
-  sonyXperia10IIILite: PropTypes.string,
-  sonyXperia10IV: PropTypes.string,
-  sonyXperia5IV: PropTypes.string,
-  sonyXperia1IV: PropTypes.string,
-};
+
 
 export default FrameComponent5;

@@ -203,8 +203,5 @@ const Nav2 = ({ className = "" }) => {
   );
 };
 
-Nav2.propTypes = {
-  className: PropTypes.string,
-};
 
 export default Nav2;

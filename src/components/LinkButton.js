@@ -34,14 +34,5 @@ const LinkButton = ({
   );
 };
 
-LinkButton.propTypes = {
-  className: PropTypes.string,
-  container: PropTypes.string,
-  egypt: PropTypes.string,
-  from319GB: PropTypes.string,
-
-  /** Style props */
-  propMinWidth: PropTypes.any,
-};
 
 export default LinkButton;

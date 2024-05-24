@@ -34,14 +34,6 @@ const LinkButton3 = ({
   );
 };
 
-LinkButton3.propTypes = {
-  className: PropTypes.string,
-  overlay: PropTypes.string,
-  northAmerica: PropTypes.string,
-  countries: PropTypes.string,
 
-  /** Style props */
-  propMinWidth: PropTypes.any,
-};
 
 export default LinkButton3;

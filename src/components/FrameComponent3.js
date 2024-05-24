@@ -39,13 +39,6 @@ const FrameComponent3 = ({
   );
 };
 
-FrameComponent3.propTypes = {
-  className: PropTypes.string,
-  eSIMMobileDataPlansFor: PropTypes.string,
-  tourismAndBusiness: PropTypes.string,
 
-  /** Style props */
-  propDisplay: PropTypes.any,
-};
 
 export default FrameComponent3;

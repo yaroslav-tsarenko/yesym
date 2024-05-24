@@ -57,20 +57,6 @@ const FrameComponent7 = ({
   );
 };
 
-FrameComponent7.propTypes = {
-  className: PropTypes.string,
-  prop: PropTypes.string,
-  heading4SignUpForYesimBus: PropTypes.string,
-  createACorporateAccountAn: PropTypes.string,
-  businessNeeds: PropTypes.string,
-  prop1: PropTypes.string,
-  heading4ESIMDeployment: PropTypes.string,
-  distributeESIMProfilesToY: PropTypes.string,
-  devicesNoMatterWhereTheyA: PropTypes.string,
 
-  /** Style props */
-  propDisplay: PropTypes.any,
-  propMinWidth: PropTypes.any,
-};
 
 export default FrameComponent7;

@@ -44,8 +44,6 @@ const FrameComponent1 = ({ className = "" }) => {
   );
 };
 
-FrameComponent1.propTypes = {
-  className: PropTypes.string,
-};
+
 
 export default FrameComponent1;

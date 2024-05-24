@@ -129,8 +129,5 @@ const Nav4 = ({ className = "" }) => {
   );
 };
 
-Nav4.propTypes = {
-  className: PropTypes.string,
-};
 
 export default Nav4;

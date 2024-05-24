@@ -41,16 +41,6 @@ const Item = ({
   );
 };
 
-Item.propTypes = {
-  className: PropTypes.string,
-  heading4GlobalNetworkReli: PropTypes.string,
-  experienceDependable: PropTypes.string,
-  connectivityWithYesimsRob: PropTypes.string,
-  globalNetworkStayConnecte: PropTypes.string,
-  keyBusinessDestinations: PropTypes.string,
-  ensuringYourTeamIsAlways: PropTypes.string,
-  reachable: PropTypes.string,
-  image: PropTypes.string,
-};
+
 
 export default Item;

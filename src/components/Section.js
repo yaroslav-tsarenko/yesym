@@ -37,8 +37,5 @@ const Section = ({ className = "" }) => {
   );
 };
 
-Section.propTypes = {
-  className: PropTypes.string,
-};
 
 export default Section;

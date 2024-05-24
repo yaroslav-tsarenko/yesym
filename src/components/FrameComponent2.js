@@ -36,13 +36,5 @@ const FrameComponent2 = ({
   );
 };
 
-FrameComponent2.propTypes = {
-  className: PropTypes.string,
-  ourUsersFeedbackAboutESIM: PropTypes.string,
-  yesim: PropTypes.string,
-
-  /** Style props */
-  propGap: PropTypes.any,
-};
 
 export default FrameComponent2;

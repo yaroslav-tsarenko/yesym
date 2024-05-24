@@ -32,14 +32,5 @@ const LinkButton2 = ({
   );
 };
 
-LinkButton2.propTypes = {
-  className: PropTypes.string,
-  container: PropTypes.string,
-  unitedStatesUSA: PropTypes.string,
-  from159GB: PropTypes.string,
-
-  /** Action props */
-  onLinkButton2Click: PropTypes.func,
-};
 
 export default LinkButton2;

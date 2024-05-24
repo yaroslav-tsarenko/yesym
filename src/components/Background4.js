@@ -95,14 +95,6 @@ const Background4 = ({
   );
 };
 
-Background4.propTypes = {
-  className: PropTypes.string,
 
-  /** Style props */
-  propDebugCommit: PropTypes.any,
-  propDebugCommit1: PropTypes.any,
-  propDebugCommit2: PropTypes.any,
-  propDebugCommit3: PropTypes.any,
-};
 
 export default Background4;

@@ -70,22 +70,5 @@ const FrameComponent8 = ({
   );
 };
 
-FrameComponent8.propTypes = {
-  className: PropTypes.string,
-  overlay: PropTypes.string,
-  europe: PropTypes.string,
-  countries: PropTypes.string,
-  overlay1: PropTypes.string,
-  asiaPacific: PropTypes.string,
-  countries1: PropTypes.string,
-
-  /** Style props */
-  propMinWidth: PropTypes.any,
-  propMinWidth1: PropTypes.any,
-  propMinWidth2: PropTypes.any,
-
-  /** Action props */
-  onLinkButton2Click: PropTypes.func,
-};
 
 export default FrameComponent8;

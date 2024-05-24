@@ -6,17 +6,7 @@ import LinkButton2 from "../components/LinkButton2";
 import "./CompabilityDevices.css";
 
 const CompabilityDevices = () => {
-  const onLinkButton1Click = useCallback(() => {
-    // Please sync "https://yesim.app/country/united-states/ - 13/05/2024, 14:33:43 EEST" to the project
-  }, []);
 
-  const onLinkButtonClick = useCallback(() => {
-    // Please sync "https://yesim.app/international-esim/ - 13/05/2024, 14:33:24 EEST" to the project
-  }, []);
-
-  const onLinkButton2Click = useCallback(() => {
-    // Please sync "https://yesim.app/regions/europe-esim/ - 13/05/2024, 14:35:29 EEST" to the project
-  }, []);
 
   return (
     <div className="compabilitydevices">
@@ -155,7 +145,6 @@ const CompabilityDevices = () => {
                     container="/container.svg"
                     unitedStatesUSA="United States (USA)"
                     from159GB="from $1.59/GB"
-                    onLinkButton2Click={onLinkButton1Click}
                   />
                 </div>
               </div>

@@ -21,11 +21,4 @@ const Link = ({ className = "", onLinkContainerClick }) => {
   );
 };
 
-Link.propTypes = {
-  className: PropTypes.string,
-
-  /** Action props */
-  onLinkContainerClick: PropTypes.func,
-};
-
 export default Link;

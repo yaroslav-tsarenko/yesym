@@ -47,14 +47,5 @@ const LinkButton1 = ({
   );
 };
 
-LinkButton1.propTypes = {
-  className: PropTypes.string,
-
-  /** Style props */
-  propOverflowX: PropTypes.any,
-  propFlex: PropTypes.any,
-  propMinWidth: PropTypes.any,
-  propAlignSelf: PropTypes.any,
-};
 
 export default LinkButton1;

@@ -959,6 +959,7 @@
 .frame-group,
 .frame-parent2,
 .section2 {
+  margin: 15px 0 0 0;
   flex-direction: column;
   justify-content: flex-start;
 }

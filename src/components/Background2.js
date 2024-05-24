@@ -39,8 +39,5 @@ const Background2 = ({ className = "" }) => {
   );
 };
 
-Background2.propTypes = {
-  className: PropTypes.string,
-};
 
 export default Background2;

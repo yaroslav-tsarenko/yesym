@@ -102,14 +102,6 @@ const FrameComponent = ({
   );
 };
 
-FrameComponent.propTypes = {
-  className: PropTypes.string,
 
-  /** Style props */
-  propDebugCommit: PropTypes.any,
-  propDebugCommit1: PropTypes.any,
-  buttonDebugCommit: PropTypes.any,
-  buttonDebugCommit1: PropTypes.any,
-};
 
 export default FrameComponent;

@@ -59,14 +59,6 @@ const Section2 = ({
   );
 };
 
-Section2.propTypes = {
-  className: PropTypes.string,
-  image: PropTypes.string,
-  image1: PropTypes.string,
-  image6: PropTypes.string,
 
-  /** Style props */
-  ourIndustryLeadingCarrierMargin: PropTypes.any,
-};
 
 export default Section2;

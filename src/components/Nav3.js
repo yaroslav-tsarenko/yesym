@@ -128,8 +128,4 @@ const Nav3 = ({ className = "" }) => {
   );
 };
 
-Nav3.propTypes = {
-  className: PropTypes.string,
-};
-
 export default Nav3;

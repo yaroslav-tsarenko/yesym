@@ -72,13 +72,4 @@ const Background5 = ({
   );
 };
 
-Background5.propTypes = {
-  className: PropTypes.string,
-  coverageAndSpeedOfTheInte: PropTypes.string,
-
-  /** Style props */
-  propDebugCommit: PropTypes.any,
-  propDebugCommit1: PropTypes.any,
-};
-
 export default Background5;

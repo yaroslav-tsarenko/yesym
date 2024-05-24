@@ -34,9 +34,6 @@ const Section1 = ({ className = "", image1 }) => {
   );
 };
 
-Section1.propTypes = {
-  className: PropTypes.string,
-  image1: PropTypes.string,
-};
+
 
 export default Section1;

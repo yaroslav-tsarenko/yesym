@@ -44,8 +44,5 @@ const Background3 = ({ className = "" }) => {
   );
 };
 
-Background3.propTypes = {
-  className: PropTypes.string,
-};
 
 export default Background3;

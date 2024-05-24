@@ -27,12 +27,5 @@ const Background8 = ({
   );
 };
 
-Background8.propTypes = {
-  className: PropTypes.string,
-  prop: PropTypes.string,
-  chooseTheDestination: PropTypes.string,
-  andESIMDataPlan: PropTypes.string,
-  image: PropTypes.string,
-};
 
 export default Background8;

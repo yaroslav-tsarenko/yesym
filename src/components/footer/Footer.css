@@ -1,0 +1,113 @@
+.footer-container-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 30px 20px 30px;
+    background: #eaeaea;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: black;
+    height: 100%;
+}
+
+.footer-container hr {
+    width: 100%;
+}
+
+.footer-upper-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: start;
+    align-content: start;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 64px 0 64px 0;
+}
+
+.footer-credentials{
+    width: 300px;
+}
+
+.footer-links-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1060px;
+    flex-wrap: wrap;
+    padding: 0 64px 0 64px;
+}
+
+.footer-links-wrapper section {
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    height: 204px;
+}
+
+.footer-links-wrapper section h2 {
+    color: black;
+}
+
+.footer-links-wrapper section a {
+    text-decoration: none;
+    font-weight: normal;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+
+.footer-links-wrapper section a:hover {
+    text-decoration: none;
+    font-weight: normal;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+
+.footer-bottom-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+}
+
+.footer-bottom-section section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    max-width: 1920px;
+    width: 100%;
+}
+.footer-bottom-section section a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    margin: 10px;
+    font-weight: normal;
+    transition: 0.2s ease-in-out;
+}
+
+.footer-bottom-section section a:hover{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 1255px) {
+    .footer-credentials{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin: 0 auto;
+    }
+}
