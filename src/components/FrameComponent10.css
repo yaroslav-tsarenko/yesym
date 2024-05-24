@@ -1,0 +1,104 @@
+.overlayshadow-icon3 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 30px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.641);
+}
+.wrapper-overlayshadow3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 14px;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.connect-to-mobile,
+.sim-cards-in,
+.traveling1 {
+  display: block;
+}
+.sim-cards-in-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.link-image3 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-image-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div3,
+.mar-2024,
+.vika-laki3 {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: inline-block;
+}
+.vika-laki3 {
+  color: rgba(12, 12, 13, 0.74);
+  min-width: 60.2px;
+}
+.div3,
+.mar-2024 {
+  min-width: 8.3px;
+}
+.mar-2024 {
+  min-width: 86.5px;
+}
+.frame-parent43 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 5.7px;
+}
+.minutes-to-read3 {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 117px;
+}
+.frame-parent42,
+.wrapper-overlayshadow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent42 {
+  gap: 2px;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.wrapper-overlayshadow-container {
+  height: 323.2px;
+  width: 285px;
+  gap: 15px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

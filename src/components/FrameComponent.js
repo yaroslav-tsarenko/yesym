@@ -65,37 +65,6 @@ const FrameComponent = ({
       <div className="frame-wrapper23">
         <div className="link-privacy-policy-container">
           <a className="link-privacy2">Privacy policy</a>
-          <div className="link-genesis2">
-            Genesis Group AG; Chamerstrasse 172, CH-6300 Zug; REG NO:
-            CHE-135.623.633
-          </div>
-          <div className="backgroundshadow3">
-            <p className="we-use-cookies-container2">
-              <span>
-                <span className="we-use-cookies-on-our-website2">
-                  <span>
-                    We use cookies on our website to give you the best browsing
-                    experience.
-                  </span>
-                </span>
-                <span className="by-clicking-accept-you-cons2">
-                  <span>{`By clicking "Accept", you consent to the use of all cookies as outlined in our `}</span>
-                  <span className="privacy-policy2">Privacy Policy</span>
-                  <span className="span2">.</span>
-                </span>
-              </span>
-            </p>
-            <div className="backgroundshadow-inner1">
-              <div className="button-parent2">
-                <button className="button9" style={buttonStyle}>
-                  <div className="accept2">Accept</div>
-                </button>
-                <button className="button10" style={button1Style}>
-                  <div className="no-thanks2">No, thanks</div>
-                </button>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>

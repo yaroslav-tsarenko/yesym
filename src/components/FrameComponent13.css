@@ -1,0 +1,177 @@
+.link-home2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  color: inherit;
+  display: inline-block;
+  min-width: 40px;
+}
+.svg-icon25 {
+  width: 10px;
+  height: 10px;
+  position: relative;
+}
+.svg-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.link-blog1 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 30.1px;
+}
+.link-home-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.7px;
+}
+.overlayshadow-icon {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 30px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.238);
+}
+.wrapper-overlayshadow {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 24px;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent37 {
+  align-self: stretch;
+  height: 542px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.last-post {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  color: #ff7a00;
+  display: inline-block;
+  min-width: 63px;
+}
+.heading-12 {
+  margin: 0;
+  position: relative;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.link-image {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.vika-laki {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 60.2px;
+}
+.vika-laki-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.div {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 8.3px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.frame {
+  height: 19px;
+  flex: 1;
+}
+.link-image-parent {
+  width: 193.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 5.8px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.minutes-to-read {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 124px;
+}
+.frame-parent36,
+.heading-1-turkey-resorts-10-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-1-turkey-resorts-10-parent {
+  gap: 4px;
+  color: #0c0c0d;
+}
+.frame-parent36 {
+  align-self: stretch;
+  gap: 24px;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}
+@media screen and (max-width: 1025px) {
+  .heading-12 {
+    font-size: 27px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-12 {
+    font-size: 20px;
+    line-height: 22px;
+  }
+}

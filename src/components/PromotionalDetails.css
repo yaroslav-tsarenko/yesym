@@ -1,0 +1,188 @@
+.your-email-andor {
+  position: relative;
+}
+.purpose-to-notify-container {
+  margin: 0;
+  position: relative;
+}
+.date-to-contact {
+  height: 1px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.promotional-purpose {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.the-source-of-container4 {
+  height: 1px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.application-data {
+  text-decoration: underline;
+}
+.type-or-categories-container5 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.promotional-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19.3px;
+  max-width: 100%;
+}
+.your-ip-address1 {
+  margin: 0;
+  position: relative;
+}
+.purpose-to-remember-container1,
+.the-type-of {
+  margin: 0;
+}
+.purpose-to-remember-container1,
+.the-source-of-container5,
+.the-type-of {
+  height: 1px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.type-or-categories1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.authority-source {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.personal-data-received {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 1;
+}
+.legal-data {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.enforcement-authorities-or {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.application-device,
+.data-disclosure {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.data-disclosure {
+  font-size: 24px;
+}
+.application-device {
+  gap: 19.2px;
+}
+.purpose,
+.to-perform-legal {
+  font-family: Inter;
+}
+.competent-authorities {
+  text-decoration: underline;
+}
+.purpose-to-perform-container {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.promotional-details,
+.promotional-info {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.promotional-info {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.promotional-details {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 10px 21px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 1125px) {
+  .legal-data {
+    flex-wrap: wrap;
+  }
+  .promotional-info {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .promotional-info {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .enforcement-authorities-or,
+  .personal-data-received,
+  .type-or-categories-container5,
+  .type-or-categories1 {
+    font-size: 19px;
+  }
+}

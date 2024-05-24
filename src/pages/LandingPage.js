@@ -34,10 +34,8 @@ import Background2 from "../components/Background2";
 import Background1 from "../components/Background1";
 import Background from "../components/Background";
 import Section from "../components/Section";
-import FrameComponent1 from "../components/FrameComponent1";
-import FrameComponent from "../components/FrameComponent";
+import FooterComponent from "../components/FooterComponent";
 import "./LandingPage.css";
-import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
 
 const LandingPage = () => {
@@ -589,13 +587,11 @@ mobile operators?`}</MenuItem>
                     <Section />
                   </div>
                 </div>
-                <FrameComponent1 />
-                <FrameComponent />
+                <FooterComponent />
               </section>
             </main>
           </div>
         </LocalizationProvider>
-        <Footer/>
       </>
 
   );

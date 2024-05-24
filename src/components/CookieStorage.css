@@ -1,0 +1,44 @@
+.remember-arbitrary-pieces {
+  margin: 0;
+  position: relative;
+}
+.other-users-advertisers,
+.website-and-the-container {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.other-users-advertisers {
+  z-index: 2;
+}
+.cookies-these-third-party {
+  margin: 0;
+  position: relative;
+  z-index: 3;
+}
+.policy {
+  height: 1px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 49.6px;
+  z-index: 4;
+}
+.cookie-governance,
+.cookie-storage {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookie-storage {
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

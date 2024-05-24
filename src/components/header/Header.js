@@ -25,10 +25,10 @@ const Header = () => {
             </Link>
             <div className="header-nav">
                 <nav>
-                    <Link className="nav-link" to="/about">Internet</Link>
-                    <Link className="nav-link" to="/support">Virtual numbers</Link>
-                    <Link className="nav-link" to="/blog">Compatible devices</Link>
-                    <Link className="nav-link" to="/login">More</Link>
+                    <Link className="nav-link" to="/enterprise">Internet</Link>
+                    <Link className="nav-link" to="/virtualnumbers">Virtual numbers</Link>
+                    <Link className="nav-link" to="/compability-devices">Compatible devices</Link>
+                    <Link className="nav-link" to="/regions">More</Link>
                 </nav>
             </div>
             <div className="section-header">
@@ -53,10 +53,10 @@ const Header = () => {
                 <div className="sidebar">
                     <button className="close-button" onClick={handleCloseClick}><FaTimes/></button>
                     <section>
-                        <Link className="nav-link" to="/about">Internet</Link>
-                        <Link className="nav-link" to="/support">Virtual numbers</Link>
-                        <Link className="nav-link" to="/blog">Compatible devices</Link>
-                        <Link className="nav-link" to="/login">More</Link>
+                        <Link className="nav-link" to="/enterprise">Internet</Link>
+                        <Link className="nav-link" to="/virtualnumbers">Virtual numbers</Link>
+                        <Link className="nav-link" to="/compability-devices">Compatible devices</Link>
+                        <Link className="nav-link" to="/regions">More</Link>
                     </section>
                     <button className="get-started-button">Get started</button>
                 </div>

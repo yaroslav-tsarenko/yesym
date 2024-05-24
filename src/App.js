@@ -67,8 +67,8 @@ function App() {
     <Routes>
       <Route path="/" element={<LandingPage />} />
       <Route path="/virtualnumbers" element={<VirtualNumbers />} />
-      <Route path="/compabilitydevices" element={<CompabilityDevices />} />
-      <Route path="/etnerprise" element={<Etnerprise />} />
+      <Route path="/compability-devices" element={<CompabilityDevices />} />
+      <Route path="/enterprise" element={<Etnerprise />} />
       <Route path="/regions" element={<Regions />} />
     </Routes>
   );
