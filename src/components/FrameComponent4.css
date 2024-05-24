@@ -1,0 +1,984 @@
+.link-home1 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  color: inherit;
+  display: inline-block;
+  min-width: 40px;
+}
+.svg-icon90 {
+  width: 10px;
+  height: 10px;
+  position: relative;
+}
+.svg-wrapper30 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.link-compatible3 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.link-home-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.7px;
+}
+.esim-supported-phones,
+.p {
+  margin: 0;
+}
+.esim-supported-phones-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.4px;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.carrier-specific-restrictions,
+.to-the-list,
+.to-use-an {
+  display: block;
+}
+.to-use-an-container {
+  margin: 0;
+  position: relative;
+  font-size: 17px;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.esim-supported-phones-and-tabl-parent,
+.frame-parent120 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.esim-supported-phones-and-tabl-parent {
+  gap: 12.5px;
+  font-size: 34px;
+  color: #0c0c0d;
+}
+.frame-parent120 {
+  gap: 19.5px;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.heading-5 {
+  position: relative;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.get-a-2-euro,
+.promo-code {
+  display: block;
+}
+.get-a-2-euro-container {
+  margin: 0;
+  position: relative;
+  font-size: 17px;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.device2 {
+  flex: 1;
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: rgba(12, 12, 13, 0.74);
+  text-align: center;
+  display: inline-block;
+  min-width: 53.5px;
+}
+.svg-icon91 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.button19,
+.svg-wrapper31 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.button19 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 16px;
+  background-color: rgba(144, 127, 111, 0.1);
+  width: 109.1px;
+  border-radius: 20px;
+  flex-direction: row;
+  box-sizing: border-box;
+  gap: 7.6px;
+}
+.sign-in-to {
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+}
+.button-parent5,
+.button20,
+.heading-5-get-your-virtual-s-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button20 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 15px 11px 16px;
+  background-color: #ff7a00;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+.button20:hover {
+  background-color: #e66100;
+}
+.button-parent5,
+.heading-5-get-your-virtual-s-parent {
+  gap: 10px;
+}
+.heading-5-get-your-virtual-s-parent {
+  flex-direction: column;
+  gap: 14px;
+  max-width: 100%;
+}
+.overlay-icon1 {
+  height: 56px;
+  width: 56px;
+  position: relative;
+  border-radius: 28px;
+}
+.backgroundshadow4 {
+  align-self: stretch;
+  box-shadow: 0 2px 50px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 22px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 20px;
+}
+.heading-214 {
+  margin: 0;
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.heading-214,
+.heading-3,
+.list-of-ios {
+  position: relative;
+  display: inline-block;
+}
+.list-of-ios {
+  margin: 0;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+  max-width: 100%;
+}
+.heading-3 {
+  line-height: 28px;
+  font-weight: 600;
+  min-width: 63px;
+}
+.heading-3-apple-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon89 {
+  align-self: stretch;
+  width: 82px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 30px;
+}
+.background29 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+  font-size: 22px;
+}
+.ipad-102-2019,
+.ipad-97-2016,
+.ipad-air-2014,
+.ipad-mini-2019,
+.ipad-mini-3,
+.ipad-mini-4,
+.ipad-pro-105,
+.ipad-pro-11,
+.ipad-pro-129,
+.ipad-pro-97,
+.iphone-11-11,
+.iphone-12-12,
+.iphone-13-13,
+.iphone-14-plus,
+.iphone-15-15,
+.iphone-se-2020,
+.iphone-xr-not,
+.iphone-xs-xs {
+  display: block;
+}
+.item-iphone-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-iphone-15-15-plus-15-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 23px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.macau-and-hong,
+.notice-device-compatibility,
+.offered-on-the,
+.slots {
+  display: block;
+}
+.notice-device-compatibility-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.can-check-with,
+.your-device,
+.your-device-must {
+  display: block;
+}
+.your-device-must-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.have-your-device-restored-to-f,
+.if-you-have-a-turkish-produced {
+  display: block;
+}
+.httpssupportapplecomtr-t {
+  text-decoration: underline;
+  color: #ff7a00;
+}
+.turkish-language-or {
+  color: #0c0c0d;
+}
+.here-httpssupportappleco {
+  display: block;
+}
+.httpssupportapplecomen-u1 {
+  text-decoration: underline;
+  color: #ff7a00;
+}
+.expanding-this-list-as-much-as,
+.httpssupportapplecomen-u,
+.stay-connected {
+  display: block;
+}
+.if-you-have-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.backgroundshadow-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.android-devices-compatible,
+.heading-215 {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-215 {
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.android-devices-compatible {
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.heading-31 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 100px;
+}
+.heading-3-samsung-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon90 {
+  align-self: stretch;
+  width: 133px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 30px;
+}
+.android-devices-compatible-wit-parent,
+.background30 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.background30 {
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+  font-size: 22px;
+  color: #0c0c0d;
+}
+.android-devices-compatible-wit-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+  color: rgba(12, 12, 13, 0.74);
+}
+.galaxy-a35,
+.galaxy-a54,
+.galaxy-a55,
+.galaxy-s22-5g,
+.galaxy-s23-s23,
+.galaxy-s24-s24 {
+  display: block;
+}
+.item-galaxy-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.esim,
+.galaxy-s21-5g {
+  display: block;
+}
+.galaxy-s21-5g-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.galaxy-s20-s20,
+.s20-fe-4g5g {
+  display: block;
+}
+.galaxy-s20-s20-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  z-index: 2;
+}
+.galaxy-note20-note20,
+.ultra-are-not {
+  display: block;
+}
+.galaxy-note20-note20-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  z-index: 3;
+}
+.galaxy-fold,
+.galaxy-xcover7,
+.galaxy-z-flip,
+.galaxy-z-flip3,
+.galaxy-z-flip4,
+.galaxy-z-fold2,
+.galaxy-z-fold3,
+.galaxy-z-fold4 {
+  display: block;
+}
+.item-galaxy-container1 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.frame-wrapper26,
+.item-galaxy-a55-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.item-galaxy-a55-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper26 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 14px 0 24px;
+  box-sizing: border-box;
+}
+.anything-you-can1,
+.be-devices-both1,
+.notice-your-device1,
+.purchase1 {
+  display: block;
+}
+.notice-your-device-container1 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.notice-your-device-must-be-un-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.heading-32 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+}
+.heading-3-google-pixel-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon91 {
+  align-self: stretch;
+  width: 77px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 30px;
+}
+.background31 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+  font-size: 22px;
+}
+.pixel-3-3a,
+.pixel-4-4a,
+.pixel-5-5a,
+.pixel-6-6a,
+.pixel-7-7 {
+  display: block;
+}
+.item-pixel-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-pixel-7-7-pro-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+}
+.anything-you-can2,
+.be-devices-both2,
+.notice-your-device2,
+.purchase2 {
+  display: block;
+}
+.notice-your-device-container2 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.frame-parent121 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 24px;
+}
+.heading-33 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 73.5px;
+}
+.heading-3-xiaomi-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon92 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 30px;
+}
+.background32 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+  font-size: 22px;
+}
+.xiaomi-12t-pro,
+.xiaomi-13-13 {
+  margin: 0;
+}
+.item-xiaomi-container {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-xiaomi-13-13-lite-13-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 23px;
+}
+.anything-you-can3,
+.be-devices-both3,
+.notice-your-device3,
+.purchase3 {
+  display: block;
+}
+.notice-your-device-container3 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.frame-parent122 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 24px;
+}
+.background33 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 46px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 22px;
+  color: #0c0c0d;
+}
+.huawei-mate40-pro,
+.huawei-p40-and {
+  display: block;
+}
+.item-huawei-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-huawei-p40-and-p40-pro-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.anything-you-can4,
+.be-devices-both4,
+.notice-your-device4,
+.purchase4 {
+  display: block;
+}
+.notice-your-device-container4 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.frame-parent123 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.heading-34 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 54.1px;
+}
+.heading-3-sony-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon93 {
+  align-self: stretch;
+  width: 85px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 30px;
+}
+.background34 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+  font-size: 22px;
+}
+.heading-35 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 95px;
+}
+.heading-3-motorola-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.image-icon94 {
+  height: 30px;
+  width: 31.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 30px;
+}
+.background35,
+.background36 {
+  align-self: stretch;
+  font-size: 22px;
+}
+.background35 {
+  border-radius: 12px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 16px;
+  gap: 20px;
+}
+.background36 {
+  border: 0;
+  background-color: transparent;
+  height: 44px;
+  font-family: Inter;
+  font-weight: 600;
+  color: #0c0c0d;
+}
+.doogee-v30,
+.fairphone-4,
+.gemini-pda-4gwi-fi,
+.hammer-blade-3,
+.hammer-explorer-pro,
+.honor-magic-4,
+.microsoft-surface-duo,
+.myphone-now-esim,
+.nokia-xr21-x30,
+.nuu-mobile-x5,
+.oneplus-11,
+.oneplus-12,
+.oppo-find-n2,
+.oppo-find-x3,
+.oppo-reno-a,
+.rakuten-big-big,
+.rakuten-hand,
+.rakuten-mini,
+.sharp-aquos-r7,
+.sharp-aquos-sense4 {
+  display: block;
+}
+.item-nokia-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-nokia-xr21-x30-g60-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.anything-you-can5,
+.be-devices-both5,
+.notice-your-device5,
+.purchase5 {
+  display: block;
+}
+.notice-your-device-container5 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.frame-parent124,
+.heading-2-esim-compatible-an-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.heading-2-esim-compatible-an-parent {
+  align-self: stretch;
+}
+.heading-414 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.esim-compatible-devices-allow,
+.esim-data-plan,
+.physical-sim-card,
+.them,
+.you-can-have {
+  display: block;
+}
+.link-esim-compatible-container {
+  margin: 0;
+  position: relative;
+  font-size: 17px;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.frame-parent119,
+.heading-4-how-many-esims-can-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  max-width: 100%;
+  font-size: 28px;
+}
+.frame-parent119 {
+  width: 720px;
+  gap: 40px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 1050px) {
+  .esim-supported-phones-container {
+    font-size: 27px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .backgroundshadow4 {
+    flex-wrap: wrap;
+  }
+  .frame-parent119 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .esim-supported-phones-container {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .heading-5 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .button-parent5 {
+    flex-wrap: wrap;
+  }
+  .heading-214 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .heading-3 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background29 {
+    flex-wrap: wrap;
+  }
+  .heading-215 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .heading-31 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background30 {
+    flex-wrap: wrap;
+  }
+  .heading-32 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background31 {
+    flex-wrap: wrap;
+  }
+  .heading-33 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background32 {
+    flex-wrap: wrap;
+  }
+  .heading-34 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background34 {
+    flex-wrap: wrap;
+  }
+  .heading-35 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .background35 {
+    flex-wrap: wrap;
+  }
+  .heading-414 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+}

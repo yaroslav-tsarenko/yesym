@@ -1,0 +1,61 @@
+.heading-415 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.connectivity-with-yesims,
+.ensuring-your-team,
+.experience-dependable,
+.global-network-stay,
+.key-business-destinations,
+.reachable {
+  display: block;
+}
+.experience-dependable-connecti-container {
+  margin: 0;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.heading-4-global-network-rel-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.5px;
+}
+.item-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 2px 0 0;
+}
+.image-icon95 {
+  width: 100px;
+  height: 80px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.item20 {
+  align-self: stretch;
+  border-radius: 24px;
+  background-color: #f6f5f4;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 16px;
+  gap: 30.5px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

@@ -1,0 +1,243 @@
+.link-image {
+  width: 103px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link-image-wrapper {
+  width: 159px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.internet {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 47px;
+}
+.link-button-wrapper,
+.link-button12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-button12 {
+  border-radius: 20px;
+  background-color: rgba(144, 127, 111, 0.12);
+  flex-direction: row;
+  padding: 8px 15px 8px 16px;
+}
+.link-button-wrapper {
+  width: 134.3px;
+  flex-direction: column;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  color: #0c0c0d;
+}
+.link-button13,
+.link-button14 {
+  text-decoration: none;
+  width: 54.8px;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.link-button14 {
+  width: 53.4px;
+}
+.link-button-virtual-number-parent {
+  width: 163.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.nav-inner {
+  width: 219.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+}
+.more {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 31px;
+}
+.svg-icon72 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+.button-wrapper,
+.button5,
+.svg-wrapper20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg-wrapper20 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-wrapper,
+.button5 {
+  box-sizing: border-box;
+}
+.button5 {
+  width: 203px;
+  border-radius: 20px;
+  flex-direction: row;
+  padding: 8px 16px;
+  gap: 3.5px;
+}
+.button-wrapper {
+  width: 259px;
+  flex-direction: column;
+  padding: 4px 0 0;
+}
+.button6 {
+  align-self: stretch;
+  height: 24px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.button-frame {
+  width: 83.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  box-sizing: border-box;
+}
+.eng {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 26.2px;
+}
+.svg-icon73 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+.svg-wrapper21 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-wrapper1,
+.button7,
+.svg-wrapper21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button7 {
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  padding: 4px 12px;
+  gap: 5.6px;
+}
+.button-wrapper1 {
+  width: 73.8px;
+  flex-direction: column;
+  padding: 8px 5px 0 0;
+  box-sizing: border-box;
+}
+.button-svg16 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.button-svg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 29px 0 0;
+}
+.sign-in {
+  text-decoration: none;
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 46px;
+  white-space: nowrap;
+}
+.button8,
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 15px 11px 16px;
+  background-color: #ff7a00;
+  border-radius: 20px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button8:hover {
+  background-color: #e66100;
+}
+.nav {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 10px 20px 6px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}
+@media screen and (max-width: 1000px) {
+  .link-button-virtual-number-parent {
+    display: none;
+  }
+  .nav-inner {
+    width: 55.69999999999993px;
+  }
+}

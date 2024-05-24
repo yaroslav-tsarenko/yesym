@@ -1,0 +1,68 @@
+.image-icon55 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-wrapper10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.international-esim1 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.unlimited-data-pay1 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.frame-parent98,
+.international-esim-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frame-parent98 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon75 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.link4,
+.svg-wrapper23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.link4 {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px;
+  gap: 20px;
+  cursor: pointer;
+  z-index: 1;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

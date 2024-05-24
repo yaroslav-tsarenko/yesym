@@ -1,0 +1,44 @@
+.sony-xperia-1,
+.sony-xperia-10,
+.sony-xperia-101,
+.sony-xperia-5 {
+  display: block;
+}
+.item-sony-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.item-sony-xperia-10-iii-lite-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+}
+.anything-you-can,
+.be-devices-both,
+.notice-your-device,
+.purchase {
+  display: block;
+}
+.notice-your-device-container {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.frame-parent118 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 24px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

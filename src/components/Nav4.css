@@ -1,0 +1,258 @@
+.link-image4 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-image-wrapper1 {
+  width: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 9px;
+  box-sizing: border-box;
+}
+.internet1 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 47px;
+}
+.link-button24 {
+  border-radius: 20px;
+  background-color: rgba(144, 127, 111, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 15px 8px 16px;
+}
+.link-button-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+  color: #0c0c0d;
+}
+.link-button25 {
+  width: 54.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.link-button25,
+.link-button26,
+.more3 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+}
+.link-button26 {
+  width: 53.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.more3 {
+  display: inline-block;
+  min-width: 31px;
+}
+.svg-icon94 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+.svg-wrapper34 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.button-wrapper9,
+.button27,
+.svg-wrapper34 {
+  display: flex;
+  align-items: flex-start;
+}
+.button27 {
+  align-self: stretch;
+  border-radius: 20px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 8px 16px;
+  gap: 3.5px;
+}
+.button-wrapper9 {
+  width: 203px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.button28,
+.eng4 {
+  flex: 1;
+  font-weight: 500;
+}
+.button28 {
+  height: 24px;
+  font-family: Inter;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  width: auto;
+}
+.eng4 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: inherit;
+  display: inline-block;
+  min-width: 26.2px;
+}
+.svg-icon95 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+.button-parent7,
+.button29,
+.svg-wrapper35 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg-wrapper35 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-parent7,
+.button29 {
+  flex-direction: row;
+}
+.button29 {
+  width: 67.9px;
+  border-radius: 16px;
+  padding: 4px 12px;
+  box-sizing: border-box;
+  gap: 5.6px;
+  z-index: 1;
+}
+.button-parent7 {
+  flex: 1;
+}
+.button-svg22 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.button-svg-wrapper3 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-svg-wrapper3,
+.frame-parent130,
+.frame-wrapper27 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent130 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 5.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-wrapper27 {
+  flex: 1;
+  flex-direction: column;
+  padding: 8px 0 0;
+}
+.sign-in4 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 46px;
+  white-space: nowrap;
+}
+.button30 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 15px 11px 16px;
+  background-color: #ff7a00;
+  border-radius: 20px;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.button30:hover {
+  background-color: #e66100;
+}
+.button30,
+.frame-parent129,
+.nav-inner2 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent129 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.nav-inner2 {
+  width: 284.3px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+}
+.nav4 {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 10px 20px 6px;
+  gap: 55.8px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}
+@media screen and (max-width: 975px) {
+  .button-parent7 {
+    display: none;
+  }
+}
+@media screen and (max-width: 700px) {
+  .nav4 {
+    gap: 28px;
+  }
+}

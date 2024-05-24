@@ -1,0 +1,231 @@
+.link-image2 {
+  height: 30px;
+  width: 103px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-button19 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 47px;
+}
+.link-button-internet-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.link-button-internet-wrapper,
+.link-image-parent,
+.nav-child {
+  display: flex;
+  align-items: flex-start;
+}
+.link-image-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.nav-child {
+  width: 222px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.compatible-devices {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 118px;
+}
+.link-button20 {
+  border-radius: 20px;
+  background-color: rgba(144, 127, 111, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 15px 8px 16px;
+  white-space: nowrap;
+}
+.button15 {
+  height: 32px;
+  width: 78.5px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  z-index: 1;
+}
+.link-button-parent11,
+.nav-inner1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav-inner1 {
+  flex-direction: column;
+  padding: 4px 38px 0 0;
+  color: #0c0c0d;
+}
+.button16,
+.eng2 {
+  flex: 1;
+  font-weight: 500;
+}
+.button16 {
+  height: 24px;
+  font-family: Inter;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  width: auto;
+}
+.eng2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: inherit;
+  display: inline-block;
+  min-width: 26.2px;
+}
+.svg-icon89 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+.svg-wrapper29 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-wrapper4,
+.button17,
+.svg-wrapper29 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button17 {
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  padding: 4px 12px;
+  gap: 5.6px;
+}
+.button-wrapper4 {
+  width: 73.8px;
+  flex-direction: column;
+  padding: 0 5px 0 0;
+  box-sizing: border-box;
+}
+.button-svg20 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.button-svg-wrapper1 {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.button-parent4,
+.button-svg-wrapper1,
+.frame-wrapper25 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-wrapper25 {
+  flex: 1;
+  flex-direction: column;
+  padding: 8px 0 0;
+}
+.sign-in2 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 46px;
+  white-space: nowrap;
+}
+.button18 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 15px 11px 16px;
+  background-color: #ff7a00;
+  border-radius: 20px;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.button18:hover {
+  background-color: #e66100;
+}
+.button18,
+.frame-parent117,
+.nav2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent117 {
+  width: 284.3px;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.nav2 {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 10px 20px;
+  gap: 141.6px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .nav2 {
+    gap: 71px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .link-button-parent11 {
+    display: none;
+  }
+  .nav2 {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nav2 {
+    gap: 18px;
+  }
+}

@@ -1,0 +1,81 @@
+.container-icon16 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.united-states-usa {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.container9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from-159gb2 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 84.5px;
+}
+.container-parent5,
+.frame-parent99 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frame-parent99 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon76 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.link-button15,
+.svg-wrapper24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.link-button15 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #f6f5f4;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px;
+  box-sizing: border-box;
+  min-width: 214px;
+  max-width: 100%;
+  gap: 20px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}

@@ -1,0 +1,145 @@
+.image-icon72 {
+  align-self: stretch;
+  height: 28px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-wrapper11 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+  box-sizing: border-box;
+  min-width: 91px;
+}
+.h1,
+.mohammed1 {
+  margin: 0;
+}
+.mohammed-h-txt-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.mohammed-h1 {
+  height: 36px;
+  width: 79px;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container-icon21 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent106 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.top-app-for2,
+.traveling1 {
+  margin: 0;
+}
+.top-app-for-container4 {
+  width: 100%;
+}
+.top-app-for-container3 {
+  width: 230px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.and-have-no1,
+.coverage-and-speed1,
+.great-i-have1,
+.top-app-for3 {
+  display: block;
+}
+.top-app-for-container5 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.top-app-for-the-international-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.5px;
+}
+.svg-icon81,
+.verified-purchaser10 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.svg-icon81 {
+  height: 16px;
+  width: 16px;
+}
+.verified-purchaser10 {
+  flex: 1;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+}
+.svg-parent9 {
+  width: 160.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.background23,
+.frame-parent107 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent107 {
+  align-self: stretch;
+  gap: 10px;
+  font-size: 17px;
+  color: #0c0c0d;
+}
+.background23 {
+  width: 289px;
+  border-radius: 20px;
+  background-color: #f6f5f4;
+  flex-shrink: 0;
+  padding: 11.5px 11px 14.5px 12px;
+  box-sizing: border-box;
+  gap: 24.5px;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}

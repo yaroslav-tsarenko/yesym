@@ -1,0 +1,76 @@
+.our-users-feedback1,
+.yesim6 {
+  display: block;
+}
+.our-users-feedback-container1 {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.1px;
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.button-svg17,
+.button-svg18 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  min-height: 40px;
+}
+.button-svg18 {
+  object-fit: contain;
+}
+.button-svg-parent4,
+.frame-wrapper17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper17 {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 11.5px;
+}
+.our-users-feedback-about-esim-group,
+.section-inner5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-users-feedback-about-esim-group {
+  flex: 1;
+  align-items: flex-end;
+  gap: 70.4px;
+}
+.section-inner5 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 975px) {
+  .our-users-feedback-about-esim-group {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 725px) {
+  .our-users-feedback-about-esim-group {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-users-feedback-container1 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .our-users-feedback-about-esim-group {
+    gap: 18px;
+  }
+}

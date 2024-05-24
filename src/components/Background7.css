@@ -1,0 +1,122 @@
+.image-icon70 {
+  height: 28px;
+  width: 140px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.james-p1 {
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 60.9px;
+}
+.container-icon19 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.james-p-group {
+  flex: 1;
+  flex-direction: row;
+  gap: 6.6px;
+}
+.frame-wrapper18,
+.image-parent11,
+.james-p-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper18 {
+  height: 24px;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+  box-sizing: border-box;
+}
+.image-parent11 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 37.5px;
+}
+.works-very-well2 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 129.6px;
+}
+.a-service-but1,
+.apn-is-set1,
+.dependable-data-get1,
+.to-be-all1,
+.wont-be-disappointed1,
+.works-very-well3 {
+  display: block;
+}
+.works-very-well-container1 {
+  margin: 0;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+}
+.svg-icon79 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.verified-purchaser8 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+}
+.svg-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.works-very-well-almost-wherev-group {
+  gap: 8px;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.background21,
+.works-very-well-almost-wherev-group,
+.works-very-well-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.works-very-well-group {
+  gap: 3.5px;
+  font-size: 17px;
+  color: #0c0c0d;
+}
+.background21 {
+  border-radius: 20px;
+  background-color: #f6f5f4;
+  padding: 12px 12px 14.5px;
+  gap: 24px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .image-parent11 {
+    gap: 19px;
+  }
+}

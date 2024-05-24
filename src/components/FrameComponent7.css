@@ -1,0 +1,132 @@
+.b7 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.background37 {
+  width: 30px;
+  border-radius: 15px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 9px 4px 11px;
+  box-sizing: border-box;
+}
+.heading-416 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.business-needs,
+.create-a-corporate {
+  margin: 0;
+}
+.create-a-corporate-container {
+  height: 32px;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.74);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-4-sign-up-for-yesim-parent,
+.item21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-4-sign-up-for-yesim-parent {
+  flex-direction: column;
+  gap: 3.5px;
+  color: #0c0c0d;
+}
+.item21 {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #f6f5f4;
+  flex-direction: row;
+  padding: 14px 12px 14.5px;
+  gap: 12px;
+}
+.b8 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 11px;
+}
+.background38 {
+  width: 30px;
+  border-radius: 15px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 9px;
+  box-sizing: border-box;
+}
+.heading-417 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.devices-no-matter,
+.distribute-esim-profiles {
+  margin: 0;
+}
+.distribute-esim-profiles-container {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.heading-4-esim-deployment-parent {
+  flex-direction: column;
+  gap: 3.5px;
+  color: #0c0c0d;
+}
+.heading-4-esim-deployment-parent,
+.item-parent1,
+.item22 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item22 {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #f6f5f4;
+  flex-direction: row;
+  padding: 14px 12px 14.5px;
+  gap: 12px;
+}
+.item-parent1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 232px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 17px;
+  color: rgba(12, 12, 13, 0.46);
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .item21,
+  .item22 {
+    flex-wrap: wrap;
+  }
+}
